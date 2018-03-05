@@ -1,0 +1,18 @@
+name: ThinkShout Stripe Module Demo
+description: Creates a donation page that integrates a custom form field to connect with Stripe
+package: Custom
+type: module
+version: 1.0
+core: 8.x
+
+#dependencies:
+#  - datetime:datetime
+#  - link:link
+#  - drupal:views
+
+#test_dependencies:
+# - drupal:image
+
+#configure: hello_world.settings
+
+#hidden: true

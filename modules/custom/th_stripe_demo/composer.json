@@ -1,0 +1,22 @@
+{
+    "name": "drupal/th_stripe_demo",
+    "description": "Create a Donation Page with a Stripe integration.",
+    "type": "drupal-module",
+    #"repositories": {
+    #    "drupal": {
+    #        "type": "composer",
+    #        "url": "https://packages.drupal.org/8"
+    #    }
+    #},
+    "minimum-stability" : "dev",
+    "prefer-stable" : true,
+    "require": {
+        "drupal/stripe_checkout": "*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
+}
+

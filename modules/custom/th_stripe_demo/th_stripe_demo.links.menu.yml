@@ -1,0 +1,6 @@
+th_stripe_demo.admin:
+  title: 'ThinkShout Stripe Demo module settings'
+  description: 'Stripe admin settings page link'
+  parent: system.admin_config_development
+  route_name: th_stripe_demo.admin
+  weight: 100
